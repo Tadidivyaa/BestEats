@@ -1,19 +1,19 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
-import Hero from './Components/Hero'
-import HeadlineCards from './Components/HeadlineCards'
-import Food from './Components/Food'
-import Category from './Components/Category'
-
+import Food from './Componenets/Food';
+import HeadlineCards from './Componenets/HeadLineCards';
+import Hero from './Componenets/Hero';
+import Navbar from './Componenets/Navbar';
+import Category from'./Componenets/Category';
+import './App.css'
 function App() {
   return (
     <div>
-        <Navbar />
-        <Hero />
-        <HeadlineCards />
-        <Food />
-        <Category />
-    </div>
+    <Navbar />
+    <Hero />
+    <HeadlineCards />
+    <Food />
+    <Category />
+</div>
   );
 }
 
