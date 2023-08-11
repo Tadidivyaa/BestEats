@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../app1"
+		},
+		{
+			"path": "../calculator"
+		},
+		{
+			"path": "../bmicalc"
+		},
+		{
+			"path": "../emoji"
+		},
+		{
+			"path": "../routerapp"
+		},
+		{
+			"path": "../click"
+		},
+		{
+			"path": "../Downloads/Flipkart Clone/Flipkart Clone"
+		},
+		{
+			"path": "../ecommerce"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../hooks"
+		}
+	]
+}
